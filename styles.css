@@ -44,7 +44,7 @@ div {
     display: flex;
     justify-content: center;
 }
-h1 {
+.titulo {
     width: fit-content;
     height: 100px;
     background: red;
